@@ -8,7 +8,9 @@ It is an improved application of an existing BC Parks website where hikers apply
 ![1](https://github.com/unicornteacup/final-project/blob/master/public/pictures/1.png?raw=true)
 ![2](https://github.com/unicornteacup/final-project/blob/master/public/pictures/2.png?raw=true)
 ![3](https://github.com/unicornteacup/final-project/blob/master/public/pictures/3.png?raw=true)
-
+![3](https://github.com/unicornteacup/final-project/blob/master/public/pictures/4.png?raw=true)
+![3](https://github.com/unicornteacup/final-project/blob/master/public/pictures/5.png?raw=true)
+![3](https://github.com/unicornteacup/final-project/blob/master/public/pictures/6.png?raw=true)
 ### `npm start`
 
 Runs the app in the development mode.<br />
